@@ -1,6 +1,6 @@
 # Student-Management-System Using Python
 EUI Level 1 semester 1 project
-# Contributors:
+# Team members:
 Ahmed Sameh (Me) &
 Shady Ali &
 Mohammed Ashraf &
