@@ -1,0 +1,54 @@
+-Code:PH139
+-Name:Elementery physics
+-Description:Studying the basics of physics and developing problem solving skills
+-Credit hours:4
+-Prerequisites:None
+__________________________________________________
+-Code:PH240
+-Name:Fundementals of physics
+-Description:Studying electric circuits, capacitors and a basic intro for modern physics
+-Credit hours:4
+-Prerequisites:PH139
+__________________________________________________
+-Code:PR138
+-Name:Introduction to programming
+-Description:Short intro to programming using python
+-Credit hours:5
+-Prerequisites:None
+__________________________________________________
+-Code:PR241
+-Name:Advanced programming
+-Description:OOP intoduction using c++ and c++ syntax
+-Credit hours:5
+-Prerequisites:PR138
+__________________________________________________
+-Code:HU130
+-Name:Humanities
+-Description:Introduction to arguments and applying powers of critical thinking
+-Credit hours:3
+-Prerequisites:None
+__________________________________________________
+-Code:CA120
+-Name:Calculus 1
+-Description:Basics of differentation and integration
+-Credit hours:4
+-Prerequisites:None
+__________________________________________________
+-Code:CA121
+-Name:Calculus 2
+-Description:Deep differentation and integration
+-Credit hours:4
+-Prerequisites:CA120
+__________________________________________________
+-Code:PR300
+-Name:Intro to programming
+-Description:Learn basics of programming using python
+-Credit hours:4
+-Prerequisites:PR138 PR241
+__________________________________________________
+-Code:CA301
+-Name:Ca300
+-Description:Calculus 3
+-Credit hours:4
+-Prerequisites:CA120 CA121
+__________________________________________________

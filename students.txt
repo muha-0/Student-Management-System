@@ -1,0 +1,36 @@
+-First name:Yasser
+-Last name:Mohamed
+-ID:S1013
+-Mobile:01063025935
+-Email:yasso@students.eui.edu.eg
+-C-GPA:0
+-Academic level:Freshman
+-Registered courses:PR138 PH139 CA120
+-Completed courses:None
+-Fullfilled credit hours:0
+-Grades:100 80 80
+__________________________________________________
+-First name:Ahmed
+-Last name:Yasser
+-ID:S1011
+-Mobile:01008591647
+-Email:ayasser230@students.eui.edu.eg
+-C-GPA:4.0
+-Academic level:Freshman
+-Registered courses:PH240 PR300 CA121 PH139
+-Completed courses:PR241 CA120
+-Fullfilled credit hours:12
+-Grades:90 80 0 0
+__________________________________________________
+-First name:Hamada
+-Last name:3ezo
+-ID:S1014
+-Mobile:01063025935
+-Email:3ezo@students.eui.edu.eg
+-C-GPA:0
+-Academic level:Freshman
+-Registered courses:PR138 PH139 CA120
+-Completed courses:None
+-Fullfilled credit hours:0
+-Grades:0 0 0
+__________________________________________________
